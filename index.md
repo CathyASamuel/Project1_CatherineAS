@@ -6,7 +6,7 @@
 
 
 
-![Image](/image-rendered.png)
+![Image](/image_welcome.png)
 ```
 
 

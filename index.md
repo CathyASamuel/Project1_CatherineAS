@@ -6,7 +6,7 @@
 
 
 
-![Image](/image_welcome.png)
+![Image](/Image_welcome.png)
 ```
 
 

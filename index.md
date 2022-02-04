@@ -6,7 +6,7 @@
 
 
 
-[Link](url) and ![Image](src)
+![Image](/image-rendered.png)
 ```
 
 

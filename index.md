@@ -3,7 +3,7 @@
 
 
 
-[See My WebSite](https://github.com/CathyASamuel/Project1_CatherineAS.git/main/index.html) 
+[See My WebSite](/../index.html) 
 
 
 

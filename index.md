@@ -3,7 +3,7 @@
 
 
 
-[See My WebSite](https://cathyasamuel,github.io/blob/main/index.html) 
+[See My WebSite](https://github.com/CathyASamuel/Project1_CatherineAS/blob/main/index.html) 
 
 
 
